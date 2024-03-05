@@ -9,4 +9,5 @@
 - [第五阶段](Python学习笔记总结（第五阶段）.md)
 - [第六阶段](https://github.com/crazy-rabbit-27/Tasks/tree/main/phpstudy%E9%97%AF%E5%85%B3%E7%AC%94%E8%AE%B0)
 - [第七阶段](https://github.com/crazy-rabbit-27/Tasks/blob/main/%E9%98%B6%E6%AE%B5%E4%B8%83%EF%BC%88%E8%A1%A5%E5%85%85%E9%98%B6%E6%AE%B5%E4%BA%94%EF%BC%89.md)
+- [第八阶段](https://github.com/crazy-rabbit-27/Tasks/blob/main/%E7%AC%AC%E5%85%AB%E9%98%B6%E6%AE%B5.md)
 
